@@ -13,6 +13,7 @@
     
     <link rel="stylesheet" href="css/general.css" />
     <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="assets/css/style.css" />
 
     <script
       type="module"
@@ -171,22 +172,26 @@
             <img class="logo" alt="BBDfood  logo" src="img/BBD FOOD.png" />
           </a>
 
-          <ul class="social-links">
+           <ul class="social-list">
+
             <li>
-              <a class="footer-link" href="#"
-                ><ion-icon class="social-icon" name="logo-instagram"></ion-icon
-              ></a>
+              <a href="https://www.facebook.com/profile.php?id=100008826465432" class="social-link">
+                <img src="./assets/images/facebook.svg" alt="facebook">
+              </a>
             </li>
+
             <li>
-              <a class="footer-link" href="#"
-                ><ion-icon class="social-icon" name="logo-facebook"></ion-icon
-              ></a>
+              <a href="https://www.instagram.com/rahul.__mishra/" class="social-link">
+                <img src="./assets/images/instagram.svg" alt="instagram">
+              </a>
             </li>
+
             <li>
-              <a class="footer-link" href="#"
-                ><ion-icon class="social-icon" name="logo-twitter"></ion-icon
-              ></a>
+              <a href="https://twitter.com/10Pradhumn" class="social-link">
+                <img src="./assets/images/twitter.svg" alt="twitter">
+              </a>
             </li>
+
           </ul>
 
           <p class="copyright">
